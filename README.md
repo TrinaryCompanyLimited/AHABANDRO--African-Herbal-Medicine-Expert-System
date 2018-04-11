@@ -1,5 +1,5 @@
 # AHABANDRO---African-Herbal-Medicine-Expert-System
-A WEB BASED HERBAL MEDICINE EXPERT SYSTEM FOR DISEASE DIAGNOSIS AND TREATMENT OF STROKE
+A WEB BASED HERBAL MEDICINE EXPERT SYSTEM FOR DISEASE DIAGNOSIS AND TREATMENT
    ![alt text](snapshots/trinary-ltd.jpg  "Description goes here")
 # AHABANDRO
 Ahabandro is a web based expert system that automates the diagnose, prevention and treatment of Stroke by prescribing African (Using Ghana as a case study) herbal medicine for treatment. 
