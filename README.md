@@ -34,8 +34,8 @@ IDE - PyCharm
 Rapid Application Development (RAD) model will be employed. This means development will be incremental. In RAD model the components or functions are developed in parallel as if they were mini projects. The developments are time boxed, delivered and then assembled into a working prototype.
 
 # THE PROTOTYPE
-An incomplete version of the software program will be developed. The prototype  will be developed using PHP and not Python. The prototype will be open source on github  but the Full version which is developed with python will not be open source. 
-Below is the interface design of the prototype though its still an ongoing deelopment:
+An incomplete version of the software program will be developed. The prototype  will be developed using PHP and not Python. The prototype will be open source on github  but the Full version which is developed with Python will not be open source. 
+Below is the interface design of the prototype though its still an ongoing development:
    ![alt text](snapshots/prototype.PNG  "Description goes here")
 
 
