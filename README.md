@@ -15,10 +15,13 @@ The main objective for developing Ahabandro is to help prevent the prevalence of
 
 # SYSTEM ARCHITECTURE
 
-![alt text](Screenshots/architecture.PNG "Description goes here")
+![alt text](screenshots/architecture.PNG "Description goes here")
 
-# PROGRAMMING LANGUAGE - Specifically python
 
-# PYTHON LIBRARY- PyKnow: Expert Systems for Python or Pyke
+# TOOLS
 
-#IDE - PyCharm
+PROGRAMMING LANGUAGE - Specifically python
+
+PYTHON LIBRARY- PyKnow: Expert Systems for Python or Pyke
+
+IDE - PyCharm
