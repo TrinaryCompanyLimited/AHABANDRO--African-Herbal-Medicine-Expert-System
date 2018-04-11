@@ -26,3 +26,6 @@ PROGRAMMING LANGUAGE - Specifically python
 PYTHON LIBRARY- PyKnow: Expert Systems for Python or Pyke
 
 IDE - PyCharm
+
+# WATCH A VIDEO OF WHAT WE HOPE TO ACHIEVE
+[![IMAGE ALT TEXT HERE](snapshots/youtube.PNG)](https://www.youtube.com/watch?v=0zf5EGX3Ons)
