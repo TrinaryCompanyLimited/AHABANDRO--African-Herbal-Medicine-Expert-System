@@ -29,3 +29,12 @@ IDE - PyCharm
 
 # WATCH A VIDEO OF WHAT WE HOPE TO ACHIEVE
 [![IMAGE ALT TEXT HERE](snapshots/youtube.PNG)](https://www.youtube.com/watch?v=0zf5EGX3Ons)
+
+# SOFTWARE DEVELOPMENT MODEL
+Rapid Application Development model will be employed. This mean development will be incremental. In RAD model the components or functions are developed in parallel as if they were mini projects. The developments are time boxed, delivered and then assembled into a working prototype.
+
+# THE PROTOTYPE
+An incomplete version of the software program will be developed. The prototype  will be developed using PHP and not Python. The prototype will be open source on github  but the Full version which is developed with python will not be open source. 
+
+# COPYRIGHT INFORMATION
+AHABANDRO is copyrighted and will forever remain the property of Trinary Company Limited. The open source project gives privileges to the general public to study, change, and distribute the software to anyone and for any purpose. 
