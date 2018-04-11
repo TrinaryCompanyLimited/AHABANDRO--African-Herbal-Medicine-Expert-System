@@ -15,7 +15,7 @@ The main objective for developing Ahabandro is to help prevent the prevalence of
 
 # SYSTEM ARCHITECTURE
 
-![alt text](screenshots/architecture.png "Description goes here")
+![alt text](snapshots/architecture.png "Description goes here")
 
 
 # TOOLS
