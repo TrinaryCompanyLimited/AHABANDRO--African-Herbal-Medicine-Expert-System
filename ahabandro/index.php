@@ -14,7 +14,7 @@
     <li><a href="#">Services</a>
       <ul id="submenu">
         
-        <li><a href="http://www.facebook.com/TrinaryCompanyLiited" target="_blank">Trinary</a></li>
+        <li><a href="http://www.facebook.com/TrinaryCompanyLimited" target="_blank">Trinary</a></li>
          </ul>
     </li>
     <li><a href="#">Doctors</a></li>
