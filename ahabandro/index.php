@@ -38,3 +38,5 @@
          
         </div><!--end col-xs-8-->
      </div><!--end row-->
+	 </body>
+	 </html>
