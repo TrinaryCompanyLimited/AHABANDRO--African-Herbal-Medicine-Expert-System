@@ -27,6 +27,14 @@ PYTHON LIBRARY- PyKnow: Expert Systems for Python or Pyke
 
 IDE - PyCharm
 
+# WEBREADER API INTEGRATION
+
+WebReader is a free and open source JavaScript library developed for modern web browsers. Built using emerging functionality, WebReader can be integrated into any web page. Underneath, WebReader relies on the Web Speech API to offer speech recognition and speech synthesis functionality. It integrates a subset of the features provided by classic screen readers.
+
+A major advantage of WebReader is that it does not require any additional software to be installed on a user's machine, apart from a supported web browser.
+
+It is built with the hope to help users with disabilities better interact with web pages. The intention is not to replace screen readers, but with basic features embedded into a web page, any user with an internet connection and a headset will be able to browse a website. It frees people form constantly looking at the screen which is useful for anyone which is on the move
+
 # WATCH A VIDEO OF WHAT WE HOPE TO ACHIEVE
 [![IMAGE ALT TEXT HERE](snapshots/youtube.PNG)](https://www.youtube.com/watch?v=0zf5EGX3Ons)
 
